@@ -1,8 +1,24 @@
-# React + Vite
+#React To-Do List Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+--> Summary 
+ 
+ This Project is a simple to-do list application using React which allows the user to add his own custom daily tasks, delete them, and also move them based on their priority.
 
-Currently, two official plugins are available:
+--> Website Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Demo](https://to-do-listprojj.netlify.app/);
+
+--> Recap of Lessons Learned
+
+ --[React] : - Usage of useState hook.
+             - Usage of updater function.
+             - Usage of onClick event handler.
+
+
+--[JavaScript] : - Array Destructuring.
+
+
+--> Deployment
+
+ This project is deployed using Netlify, that allows for automatic updates whenever changes are made to the Github Repo.
+
