@@ -10,7 +10,7 @@
 
 --> Website Link
 
-[Live Demo](https://to-do-listprojj.netlify.app/);
+[Live Demo](https://to-do-listprojj.netlify.app/)
 
 
 
