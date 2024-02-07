@@ -1,0 +1,92 @@
+
+
+body{
+    background-color: rgb(28, 26, 26);
+}
+
+.toDoList_div {
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+.title{
+    
+    font-size: 4rem;
+    color: white;
+}
+
+button{
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-colot 0.5 ease;
+}
+
+.add_button{
+    background-color: rgba(0, 216, 0, 0.903);
+    border-left: none;
+}
+.delete_button{
+    background-color: rgba(255, 0, 0, 0.319);
+}
+.up_button{
+    background-color: rgba(105, 190, 233, 0.446);
+}
+.down_button{
+    background-color: rgba(105, 190, 233, 0.524);
+}
+
+.add_button:hover{
+   background-color: rgb(0, 170, 0);
+}
+.down_button:hover, .up_button:hover{
+    background-color: rgba(7, 78, 114, 0.934);
+}
+.delete_button:hover{
+    background-color: rgba(255, 0, 0, 0.765);
+}
+/******************************************************/
+input[type="text"]{
+    font-size: 1.6rem;
+    border-radius: 5px;
+    border-right: none;
+    border: 2px solid grey;
+    padding: 10px;
+    margin-bottom: 50px;
+
+    color: rgb(22, 21, 21);
+}
+ol{
+    padding: 0px;
+}
+
+li{
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 15px;
+    background-color: white;
+    margin-bottom: 10px;
+    border: 3px solid grey;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.task_span{
+    flex:1;
+}
+
+.delete_button, .up_button, .down_button {
+    padding: 8px 12px;
+    margin-left: 30px;
+    font-size: 1.4rem;
+}
+.down_button{
+    margin-right: 40px;
+}
