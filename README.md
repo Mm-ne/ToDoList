@@ -1,5 +1,6 @@
 # React "To-Do List" Project
 
+
 ## Technologies Used
 
 ![React Logo](https://camo.githubusercontent.com/23cda2ea41e9d3482ea8b84328ca6552e519cb59ad8a513e588795c678aa0c80/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67)
@@ -14,17 +15,17 @@ This Project is a simple to-do list application using React which allows the use
 
 * Link : [https://to-do-listprojj.netlify.app/]
 
-## Recap of Lessons Learned
-<ul aria-label="[React]: ">
+## Lessons Learned
+<ul>
     <li>Usage of updater function.</li>
     <li>Usage of onClick event handler.</li>
     <li>Usage of useState hook</li>
-</ul>     
-<ul aria-label="[JavaScript]: ">
     <li>Array Destructuring.</li>
-</ul>   
+</ul>     
+
 
 
 ## Deployment
 
-This project is deployed using Netlify, that allows for automatic updates whenever
+ This project is deployed using Netlify, that allows for automatic updates whenever changes are made to the Github Repo.
+
