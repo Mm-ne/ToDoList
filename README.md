@@ -1,5 +1,5 @@
 # React "To-Do List" Project
-<img src="./public/css-3 (3).png">
+<img src="./public/css-3.png">
 <img src="./public/html-5.png">
 <img src="./public/js.png">
 <img src="./public/structure.png">
