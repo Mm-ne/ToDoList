@@ -1,10 +1,8 @@
 # React "To-Do List" Project
-<img src="./public/css-3.png" width="400" />
-<img src="./public/html-5.png" width="400"/>
-<img src="./public/js.png" width="400"/>
-<img src="./public/structure.png" width="400"/>
+
 
 ## Technologies Used
+<img src="./public/css-3.png"/><img src="./public/html-5.png"/><img src="./public/js.png"/><img src="./public/structure.png"/>
 
 
 ## Summary
