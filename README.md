@@ -10,7 +10,7 @@ This Project is a simple to-do list application using React which allows the use
 
 ## Website Link
 
-* Link : [https://to-do-listprojj.netlify.app/]
+* Live Demo : [https://to-do-listprojj.netlify.app/]
 
 ## Lessons Learned
 Working on this project has helped me learn a few important topics such as : 
